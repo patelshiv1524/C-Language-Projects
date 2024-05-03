@@ -1,0 +1,11 @@
+Project Description:
+The project creates a Tic Tac Toe game that can be played via a command line. The game offers a 3x3 grid on which participants enter the corresponding cell number to indicate their moves. After every move, the game counts the number of wins and draws and shows the result. The game concludes when a player wins or a draw occurs due to the board being filled.
+
+Learning Outcomes:
+1) Understanding Basic Game Logic: By putting in place functions to handle player input, print the game board, and check for a win, you've shown that you grasp the fundamentals of game logic.
+2) Array Manipulation: You demonstrate your mastery of array manipulation, including indexing and iteration, by using arrays to represent the game board and winning combinations.
+3) Conditional Statements: Skill in managing program flow depending on conditions is demonstrated by the use of conditional statements (if-else) to verify player input and establish the current player's turn.
+4) Thinking Algorithmically: To ascertain if a player has won, the win-checking algorithm effectively loops over winning combinations. This demonstrates the ability to think algorithmically and solve problems.
+5) Simple User Interface: The application offers a simple command-line user interface, enabling players to efficiently engage with the game despite its minimalism.
+6) Utilizing ANSI Escape Codes: You show that you are conversant with terminal manipulation techniques by using ANSI escape codes to clear the screen, which enhances the user experience.
+
