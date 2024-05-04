@@ -1,0 +1,11 @@
+Simple Rock, Paper, Scissors against the computer is the project's console game. After asking the user to select, the computer makes a random selection. Until one player wins three straight rounds, the game is still in progress. This is followed by the number of rounds played and the winner displayed by the program.
+
+1) Basic Input/Output Handling: This project teaches basic input/output handling in C by accepting user input and displaying output on the console.
+2) Random Number Generation: This program uses s rand() and the rand() function from the stdlib.h library to produce random numbers at the computer's discretion.
+3) Conditional Statements: Shows how to use conditional statements (if and else if) to control the game's outcome in response to the user's and the computer's choices.
+4) Looping: This technique uses a do-while loop to let the game go on until a single participant wins three straight rounds.
+5) Function Implementation: To encourage code modularity and reusability, a function called playGame() is defined. Its purpose is to compute the result of each round depending on the decisions made by the user and the machine.
+6) Variables and Data Types: Records the total number of rounds played, as well as the user's and computer's wins, using variables. Use of the int and char data types is demonstrated.
+7) Project Organization: Shows how to organize and read the code more easily by dividing it into functions (main() and playGame()).
+8) Error Handling: When a user enters an invalid input, some error handling is applied, although it is not extensive.
+
